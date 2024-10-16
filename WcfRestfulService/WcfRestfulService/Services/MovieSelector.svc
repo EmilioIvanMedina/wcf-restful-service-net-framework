@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfRestfulService.Services.MovieSelector" CodeBehind="MovieSelector.svc.cs" %>
